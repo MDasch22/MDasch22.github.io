@@ -1299,7 +1299,7 @@ input, select, textarea {
 		}
 
 		#header .logo i{
-			padding-top: 18px;
+			padding-top: 10px;
 			padding-left: 5px;
 		}
 
@@ -1492,6 +1492,10 @@ input, select, textarea {
 				width: 4.75rem;
 				height: 4.75rem;
 				line-height: 4.75rem;
+			}
+
+			#header .logo i{
+				padding-top: 5px ;
 			}
 
 				#header .logo .icon:before {
