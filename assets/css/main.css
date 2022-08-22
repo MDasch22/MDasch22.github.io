@@ -1400,7 +1400,9 @@ input, select, textarea {
 
 		.skills-icons{
 			text-decoration: none;
-			/* text-align: center; */
+			display: flex;
+			flex-direction: row;
+			text-align: center;
 
 		}
 
@@ -1710,4 +1712,18 @@ input, select, textarea {
 
 		body.is-preload #footer {
 			opacity: 0;
+		}
+
+
+		.icon-links{
+			display: flex;
+			flex-direction: column;
+			color:#1b1f22 ;
+			margin-left: 5px;
+			margin-right: 5px;
+		}
+
+		.icon-links:hover{
+			color: #ffffff;
+			transition: .3s ease-in-out;
 		}
