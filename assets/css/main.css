@@ -1434,9 +1434,12 @@ input, select, textarea {
 		}
 
 		#live-link{
+			border-bottom: 1px solid #1b1f22;
+			transition: .3s;
 		}
 
 		#live-link:hover{
+			transition: .3s;
 			border-bottom: 1px solid #ffffff;
 		}
 
