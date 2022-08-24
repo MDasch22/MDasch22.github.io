@@ -1724,6 +1724,10 @@ input, select, textarea {
 			color:#1b1f22 ;
 			margin-left: 5px;
 			margin-right: 5px;
+			align-items: center;
+			font-size: 15px;
+			margin-top: 10px;
+			font-weight: bold;
 		}
 
 		.icon-links:hover{
