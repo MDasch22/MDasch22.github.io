@@ -915,7 +915,7 @@ input, select, textarea {
 				box-shadow: inset 0 0 0 1px #ffffff;
 				display: inline-block;
 				height: 2.25rem;
-				line-height: 2.25rem;
+				line-height: 1.75rem;
 				text-align: center;
 				width: 2.25rem;
 			}
